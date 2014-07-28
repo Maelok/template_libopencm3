@@ -1,0 +1,5 @@
+r
+h
+loadbin /home/maelok/mycoolrobot/myproject/miniblink.bin,0x08000000
+r
+g
